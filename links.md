@@ -20,3 +20,7 @@
 - #### Bitcoin and Cryptocurrency Technologies (course)
 	\#cryptocurrency #videos #coursera #course #learning\
 	[https://www.coursera.org/learn/cryptocurrency/home](https://www.coursera.org/learn/cryptocurrency/home)
+
+- #### The DOM Explained, Quick and Simple
+	\#webdev #html #css #javascript #DOM #learning\
+	[http://prettydiff.com/guide/unrelated_dom.xhtml](http://prettydiff.com/guide/unrelated_dom.xhtml)
