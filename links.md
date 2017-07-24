@@ -10,13 +10,13 @@
 	[https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html](https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html)
 
 - #### Hard Truths About Tech
-	[http://anna-oz.tumblr.com/post/158300535300/hard-truths-about-tech](http://anna-oz.tumblr.com/post/158300535300/hard-truths-about-tech)
 	\#motivation #tech #article\
+	[http://anna-oz.tumblr.com/post/158300535300/hard-truths-about-tech](http://anna-oz.tumblr.com/post/158300535300/hard-truths-about-tech)
 
 - #### Network Protocols
-	[https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147](https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147)
 	\#networking\
+	[https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147](https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147)
 
 - #### Bitcoin and Cryptocurrency Technologies (course)
-	[https://www.coursera.org/learn/cryptocurrency/home](https://www.coursera.org/learn/cryptocurrency/home)
 	\#cryptocurrency #videos #coursera #course #learning\
+	[https://www.coursera.org/learn/cryptocurrency/home](https://www.coursera.org/learn/cryptocurrency/home)
