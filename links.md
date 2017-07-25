@@ -48,3 +48,7 @@
 - #### HOW TO CREATE A NEURAL NETWORK IN JAVASCRIPT
 	\#machinelearning #javascript #practice #learning\
 	[https://scrimba.com/casts/cast-1980](https://scrimba.com/casts/cast-1980)
+
+- #### A learning path to get into security and especially web penetration testing.
+	\#networking #security #pentesting #learning #hacking\
+	[https://pentesterlab.com/bootcamp](https://pentesterlab.com/bootcamp)
