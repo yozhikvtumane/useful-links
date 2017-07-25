@@ -44,3 +44,7 @@
 - #### A good website for working with regular expressions. It gives you a breakdown of what any regex does and lets you match it against some data.
 	\#regexp #programming #testing\
 	[https://regex101.com](https://regex101.com)
+
+- #### HOW TO CREATE A NEURAL NETWORK IN JAVASCRIPT
+	\#machinelearning #javascript #practice #learning\
+	[https://scrimba.com/casts/cast-1980](https://scrimba.com/casts/cast-1980)
