@@ -24,3 +24,7 @@
 - #### The DOM Explained, Quick and Simple
 	\#webdev #html #css #javascript #DOM #learning\
 	[http://prettydiff.com/guide/unrelated_dom.xhtml](http://prettydiff.com/guide/unrelated_dom.xhtml)
+
+- #### Mega useful links for someone who wants to learn JavaScript! 
+	\#webdev #javascript #learning\
+	[https://medium.com/jsguru/hey-javascript-developer-bookmark-these-links-2edb4ce025c5](https://medium.com/jsguru/hey-javascript-developer-bookmark-these-links-2edb4ce025c5)
