@@ -28,3 +28,19 @@
 - #### Mega useful links for someone who wants to learn JavaScript! 
 	\#webdev #javascript #learning\
 	[https://medium.com/jsguru/hey-javascript-developer-bookmark-these-links-2edb4ce025c5](https://medium.com/jsguru/hey-javascript-developer-bookmark-these-links-2edb4ce025c5)
+
+- #### Learning JavaScript? Over 40 tutorials to help you get started or to increase your current skill level
+	\#webdev #javascript #learning #videos\
+	[http://www.allthingsjavascript.com/youtube.html#gettingStarted](http://www.allthingsjavascript.com/youtube.html#gettingStarted)
+
+- #### Thorough, short, and simple explanation of 'this'
+	\#webdev #javascript #learning\
+	[https://codeburst.io/the-simple-rules-to-this-in-javascript-35d97f31bde3](https://codeburst.io/the-simple-rules-to-this-in-javascript-35d97f31bde3)
+
+- #### "Learn Git Branching" is the most visual and interactive way to learn Git on the web
+	\#git #learning\
+	[http://learngitbranching.js.org](http://learngitbranching.js.org)
+
+- #### A good website for working with regular expressions. It gives you a breakdown of what any regex does and lets you match it against some data.
+	\#regexp #programming #testing\
+	[https://regex101.com](https://regex101.com)
