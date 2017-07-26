@@ -48,3 +48,15 @@
 - #### HOW TO CREATE A NEURAL NETWORK IN JAVASCRIPT
 	\#machinelearning #javascript #practice #learning\
 	[https://scrimba.com/casts/cast-1980](https://scrimba.com/casts/cast-1980)
+
+- #### A learning path to get into security and especially web penetration testing.
+	\#networking #security #pentesting #learning #hacking\
+	[https://pentesterlab.com/bootcamp](https://pentesterlab.com/bootcamp)
+
+- #### Handful videos that talk you through Stacks, Queues, Bubble sort, Quick sort Mem alloc, Pointer and much more
+	\#programming #learning #videos\
+	[https://www.youtube.com/watch?v=7YhYe937nks&index=1&list=PLbSaCpDlfd6qHRp1RVAB1kpRJ9zoQYuwV](https://www.youtube.com/watch?v=7YhYe937nks&index=1&list=PLbSaCpDlfd6qHRp1RVAB1kpRJ9zoQYuwV)
+
+- #### Kali Linux handbook
+	\#linux #os #learning #pdf\
+	[https://kali.training/downloads/Kali_Revealed_1st_edition.pdf](https://kali.training/downloads/Kali_Revealed_1st_edition.pdf)
