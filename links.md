@@ -66,7 +66,7 @@
 	[http://javascript.info/](http://javascript.info/)
 
 - #### Web Scraping in Node.js with Multiple Examples
-	\#javascript\
+	\#javascript #tutorial\
 	[https://hackprogramming.com/web-scraping-in-node-js-with-multiple-examples/](https://hackprogramming.com/web-scraping-in-node-js-with-multiple-examples/)
 
 - #### Node.JS for Beginners Tutorial Series
