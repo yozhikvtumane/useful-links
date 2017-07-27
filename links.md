@@ -60,3 +60,7 @@
 - #### Kali Linux handbook
 	\#linux #os #learning #pdf\
 	[https://kali.training/downloads/Kali_Revealed_1st_edition.pdf](https://kali.training/downloads/Kali_Revealed_1st_edition.pdf)
+
+- #### The Modern JavaScript Tutorial
+	\#javascript #tutorial #learning\
+	[http://javascript.info/](http://javascript.info/)
