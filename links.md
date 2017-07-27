@@ -72,3 +72,7 @@
 - #### Node.JS for Beginners Tutorial Series
 	\#javascript #nodejs #tutorial #video #learning\
 	[https://www.youtube.com/watch?v=M4GJlVNiggU](https://www.youtube.com/watch?v=M4GJlVNiggU)
+
+- #### Coding challenges
+	\#programming #exercises #javascript #learning\
+	[https://edabit.com/explore](https://edabit.com/explore)
