@@ -68,3 +68,7 @@
 - #### Web Scraping in Node.js with Multiple Examples
 	\#javascript\
 	[https://hackprogramming.com/web-scraping-in-node-js-with-multiple-examples/](https://hackprogramming.com/web-scraping-in-node-js-with-multiple-examples/)
+
+- #### Node.JS for Beginners Tutorial Series
+	\#javascript #nodejs #tutorial #video #learning\
+	[https://www.youtube.com/watch?v=M4GJlVNiggU](https://www.youtube.com/watch?v=M4GJlVNiggU)
