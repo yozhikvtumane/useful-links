@@ -92,3 +92,7 @@
 - #### All the common JavaScript events
 	\#javascript #mdn #docs\
 	[https://developer.mozilla.org/en-US/docs/Web/Events](https://developer.mozilla.org/en-US/docs/Web/Events)
+
+- #### Collection of links for web-developement
+	\#webdev #learning #hub #links #javascript #css #html #webdesign\
+	[http://webdesignrepo.com/frontend.html](http://webdesignrepo.com/frontend.html)
