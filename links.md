@@ -76,3 +76,7 @@
 - #### Coding challenges
 	\#programming #exercises #javascript #learning\
 	[https://edabit.com/explore](https://edabit.com/explore)
+
+- #### The super fast color schemes generator
+	\#webdev #sitebuilding #design\
+	[https://coolors.co/](https://coolors.co/)
