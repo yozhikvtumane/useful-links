@@ -60,3 +60,35 @@
 - #### Kali Linux handbook
 	\#linux #os #learning #pdf\
 	[https://kali.training/downloads/Kali_Revealed_1st_edition.pdf](https://kali.training/downloads/Kali_Revealed_1st_edition.pdf)
+
+- #### The Modern JavaScript Tutorial
+	\#javascript #tutorial #learning\
+	[http://javascript.info/](http://javascript.info/)
+
+- #### Web Scraping in Node.js with Multiple Examples
+	\#javascript #tutorial\
+	[https://hackprogramming.com/web-scraping-in-node-js-with-multiple-examples/](https://hackprogramming.com/web-scraping-in-node-js-with-multiple-examples/)
+
+- #### Node.JS for Beginners Tutorial Series
+	\#javascript #nodejs #tutorial #video #learning\
+	[https://www.youtube.com/watch?v=M4GJlVNiggU](https://www.youtube.com/watch?v=M4GJlVNiggU)
+
+- #### Coding challenges
+	\#programming #exercises #javascript #learning\
+	[https://edabit.com/explore](https://edabit.com/explore)
+
+- #### The super fast color schemes generator
+	\#webdev #sitebuilding #design\
+	[https://coolors.co/](https://coolors.co/)
+
+- #### Learn vanilla JavaScript through 30 different tutorials, real apps building
+	\#javascript #learning #tutorials #video #app-building\
+	[https://javascript30.com](https://javascript30.com)
+
+- #### A free visual guide to CSS
+	\#css #webdev\
+	[http://cssreference.io](http://cssreference.io)
+
+- #### All the common JavaScript events
+	\#javascript #mdn #docs\
+	[https://developer.mozilla.org/en-US/docs/Web/Events](https://developer.mozilla.org/en-US/docs/Web/Events)
