@@ -88,3 +88,7 @@
 - #### A free visual guide to CSS
 	\#css #webdev\
 	[http://cssreference.io](http://cssreference.io)
+
+- #### All the common JavaScript events
+	\#javascript #mdn #docs\
+	[https://developer.mozilla.org/en-US/docs/Web/Events](https://developer.mozilla.org/en-US/docs/Web/Events)
