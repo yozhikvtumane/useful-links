@@ -80,3 +80,7 @@
 - #### The super fast color schemes generator
 	\#webdev #sitebuilding #design\
 	[https://coolors.co/](https://coolors.co/)
+
+- #### Learn vanilla JavaScript through 30 different tutorials, real apps building
+	\#javascript #learning #tutorials #video #app-building\
+	[https://javascript30.com](https://javascript30.com)
