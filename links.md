@@ -96,3 +96,7 @@
 - #### Collection of links for web-developement
 	\#webdev #learning #hub #links #javascript #css #html #webdesign\
 	[http://webdesignrepo.com/frontend.html](http://webdesignrepo.com/frontend.html)
+
+- #### Ethereum yellow paper
+	\#blockchain #cryptocurrency #ethereum\
+	[https://ethereum.github.io/yellowpaper/paper.pdf](https://ethereum.github.io/yellowpaper/paper.pdf)
