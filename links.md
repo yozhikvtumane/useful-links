@@ -101,6 +101,10 @@
 	\#blockchain #cryptocurrency #ethereum\
 	[https://ethereum.github.io/yellowpaper/paper.pdf](https://ethereum.github.io/yellowpaper/paper.pdf)
 
+- #### Ethereum white paper
+	\#blockchain #ethereum #learning\
+	[https://github.com/ethereum/wiki/wiki/White-Paper](https://github.com/ethereum/wiki/wiki/White-Paper)
+
 - #### Decentralized Ethereum apps
 	\#ethereum #blockchain #blockchain-apps\
 	[https://dapps.ethercasts.com/](https://dapps.ethercasts.com/)
