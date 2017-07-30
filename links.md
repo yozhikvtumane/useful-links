@@ -100,3 +100,7 @@
 - #### Ethereum yellow paper
 	\#blockchain #cryptocurrency #ethereum\
 	[https://ethereum.github.io/yellowpaper/paper.pdf](https://ethereum.github.io/yellowpaper/paper.pdf)
+
+- #### Decentralized Ethereum apps
+	\#ethereum #blockchain #blockchain-apps\
+	[https://dapps.ethercasts.com/](https://dapps.ethercasts.com/)
