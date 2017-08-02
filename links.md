@@ -108,3 +108,7 @@
 - #### Decentralized Ethereum apps
 	\#ethereum #blockchain #blockchain-apps\
 	[https://dapps.ethercasts.com/](https://dapps.ethercasts.com/)
+
+- #### Giude to UHRS (ClickWorker)
+	\#jobs #onlinejobs #workonline\
+	[https://www.clickworker.com/wp-content/uploads/2016/01/A-GUIDE-TO-UHRS.pdf](https://www.clickworker.com/wp-content/uploads/2016/01/A-GUIDE-TO-UHRS.pdf)
