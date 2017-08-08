@@ -112,3 +112,7 @@
 - #### Giude to UHRS (ClickWorker)
 	\#jobs #onlinejobs #workonline\
 	[https://www.clickworker.com/wp-content/uploads/2016/01/A-GUIDE-TO-UHRS.pdf](https://www.clickworker.com/wp-content/uploads/2016/01/A-GUIDE-TO-UHRS.pdf)
+
+- ####  List of Udacity Nanodegree programs with links to the free courses in their curricula
+	\#learning #courses #udacity #programming #webdev #videos\
+	[https://github.com/yozhikvtumane/udacity-nanodegrees](https://github.com/yozhikvtumane/udacity-nanodegrees)
