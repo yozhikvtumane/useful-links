@@ -96,3 +96,27 @@
 - #### Collection of links for web-developement
 	\#webdev #learning #hub #links #javascript #css #html #webdesign\
 	[http://webdesignrepo.com/frontend.html](http://webdesignrepo.com/frontend.html)
+
+- #### Ethereum yellow paper
+	\#blockchain #cryptocurrency #ethereum\
+	[https://ethereum.github.io/yellowpaper/paper.pdf](https://ethereum.github.io/yellowpaper/paper.pdf)
+
+- #### Ethereum white paper
+	\#blockchain #ethereum #learning\
+	[https://github.com/ethereum/wiki/wiki/White-Paper](https://github.com/ethereum/wiki/wiki/White-Paper)
+
+- #### Decentralized Ethereum apps
+	\#ethereum #blockchain #blockchain-apps\
+	[https://dapps.ethercasts.com/](https://dapps.ethercasts.com/)
+
+- #### Giude to UHRS (ClickWorker)
+	\#jobs #onlinejobs #workonline\
+	[https://www.clickworker.com/wp-content/uploads/2016/01/A-GUIDE-TO-UHRS.pdf](https://www.clickworker.com/wp-content/uploads/2016/01/A-GUIDE-TO-UHRS.pdf)
+
+- ####  List of Udacity Nanodegree programs with links to the free courses in their curricula
+	\#learning #courses #udacity #programming #webdev #videos\
+	[https://github.com/yozhikvtumane/udacity-nanodegrees](https://github.com/yozhikvtumane/udacity-nanodegrees)
+
+-#### Learn Nodejs by building 12 projects
+	\#javascript #modejs #learning #practice\
+	[https://hackernoon.com/learn-nodejs-by-building-12-projects-d09106bb9502](https://hackernoon.com/learn-nodejs-by-building-12-projects-d09106bb9502)
