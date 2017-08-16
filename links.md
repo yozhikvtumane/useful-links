@@ -116,3 +116,7 @@
 - ####  List of Udacity Nanodegree programs with links to the free courses in their curricula
 	\#learning #courses #udacity #programming #webdev #videos\
 	[https://github.com/yozhikvtumane/udacity-nanodegrees](https://github.com/yozhikvtumane/udacity-nanodegrees)
+
+-#### Learn Nodejs by building 12 projects
+	\#javascript #modejs #learning #practice\
+	[https://hackernoon.com/learn-nodejs-by-building-12-projects-d09106bb9502](https://hackernoon.com/learn-nodejs-by-building-12-projects-d09106bb9502)
