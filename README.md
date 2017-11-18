@@ -117,6 +117,9 @@
 	\#learning #courses #udacity #programming #webdev #videos\
 	[https://github.com/yozhikvtumane/udacity-nanodegrees](https://github.com/yozhikvtumane/udacity-nanodegrees)
 
--#### Learn Nodejs by building 12 projects
+- #### Learn Nodejs by building 12 projects
 	\#javascript #modejs #learning #practice\
 	[https://hackernoon.com/learn-nodejs-by-building-12-projects-d09106bb9502](https://hackernoon.com/learn-nodejs-by-building-12-projects-d09106bb9502)
+
+- #### 10 ways to reframe common self defeating thoughts
+	[https://www.clearerthinking.org/single-post/2017/11/06/10-ways-to-reframe-common-self-defeating-thoughts](10-ways-to-reframe-common-self-defeating-thoughts)
