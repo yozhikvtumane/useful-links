@@ -123,3 +123,7 @@
 
 - #### 10 ways to reframe common self defeating thoughts
 	[https://www.clearerthinking.org/single-post/2017/11/06/10-ways-to-reframe-common-self-defeating-thoughts](10-ways-to-reframe-common-self-defeating-thoughts)
+
+- #### Software 2.0
+	\#ai #nural networks\
+	[https://medium.com/@karpathy/software-2-0-a64152b37c35](https://medium.com/@karpathy/software-2-0-a64152b37c35)
